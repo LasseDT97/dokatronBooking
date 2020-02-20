@@ -8,3 +8,5 @@ class Kunde extends User {
     }
 }
 /*Is this Git stuff working?
+Double checkin
+ */
